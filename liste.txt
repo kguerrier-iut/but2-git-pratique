@@ -1,3 +1,0 @@
-Liste des étudiants du rang 1 :
-- DELHAYE Florian (datetime)
-- Blaszyk Constant (datetime)
