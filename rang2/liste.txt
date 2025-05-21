@@ -1,5 +1,10 @@
 - Aymerick DUQUENOY
+<<<<<<< HEAD
 - Noémie LIGNIER ( 15:23 21/05/2025 )
 - Phoedora BARANGER
+=======
+- Noémie LIGNIER
+- Phoedora BARANGER (21/05/2025 15:22)
+>>>>>>> e0b412c04297fa02a1e2a458fc8c30cf2a50d4e2
 - Lilou Châtelain
 - Arthur BEIGNON
